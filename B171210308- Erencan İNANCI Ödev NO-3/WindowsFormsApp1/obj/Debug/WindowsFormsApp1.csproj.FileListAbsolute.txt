@@ -1,0 +1,40 @@
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sbuys\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus\Desktop\SAÜ-PC Engineering\1.Sınıf\1.Sınıf 2.Dönem\NDP\3.Ödev\B171210308- Erencan İNANCI Ödev NO-3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
